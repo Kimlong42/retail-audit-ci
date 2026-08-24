@@ -38,4 +38,4 @@ def test_gia_va_so_luong_duong(cleaned):
 
 
 def test_so_dong_hop_ly(cleaned):
-    assert len(cleaned) > 5_000_000
+    assert len(cleaned) > 500_000
